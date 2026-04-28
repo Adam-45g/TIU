@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black; font-size: 40px;
+}
+p {
+  color: black; font-family: Verdanna; font-size: 15px;
+}
+table, th, td {
+  border:1px solid black;
+}
